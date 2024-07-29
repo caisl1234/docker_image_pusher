@@ -1,1 +1,1 @@
-1panel/maxkb:v1.0.4
+ollama/ollama:0.1.32
