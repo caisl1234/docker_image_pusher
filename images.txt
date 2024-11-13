@@ -1,1 +1,1 @@
-jupyter/r-notebook:python-3.9.13
+ollama/ollama:latest
