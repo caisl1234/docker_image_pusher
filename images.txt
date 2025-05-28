@@ -1,1 +1,1 @@
-ghcr.io/sokrypton/colabfold:1.5.5-cuda12.2.2
+FROM nvidia/cuda:12.6.0-base-ubuntu22.04
