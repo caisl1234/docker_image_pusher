@@ -1,1 +1,1 @@
-conardli17/easy-dataset:latest
+node:20-alpine
