@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.13
+conardli17/easy-dataset:latest
