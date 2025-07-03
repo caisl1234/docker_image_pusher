@@ -1,1 +1,1 @@
-elestio/gpt-researcher:v3.1.9
+python:3.11-slim
