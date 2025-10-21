@@ -1,1 +1,1 @@
-minio/minio:latest
+vllm/vllm-openai:v0.9.2
