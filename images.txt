@@ -1,1 +1,1 @@
-polardb/polardb_pg_local_instance:17
+polardb/polardb_pg_local_instance:17.9.1.0
