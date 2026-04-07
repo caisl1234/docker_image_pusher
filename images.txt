@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.17.0-cu130
+polardb/polardb_pg_local_instance:17
