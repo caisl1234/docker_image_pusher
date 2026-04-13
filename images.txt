@@ -1,1 +1,1 @@
-eclipse-mosquitto:1.6.15
+iegomez/mosquitto-go-auth:latest
