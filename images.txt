@@ -1,1 +1,1 @@
-emqx/emqx:5.3.0
+eclipse-mosquitto:1.6.15
